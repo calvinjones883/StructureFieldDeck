@@ -1,1 +1,14 @@
-# StructureFieldDeck
+# StructureFieldDeck# StructureFieldDeck - Stackable Field-Based Data Generator
+
+StructureFieldDeck gives you full control over how fields are structured, repeated, and exported into mock datasets.
+
+## Features
+- Layered field logic  
+- CSV, JSON, SQL export  
+- Fast CLI generation  
+
+## Usage
+```bash
+git clone https://github.com/your-username/21_StructureFieldDeck.git
+cd 21_StructureFieldDeck
+python generate.py
