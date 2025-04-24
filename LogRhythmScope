@@ -1,0 +1,23 @@
+
+---
+
+### **3. 21_LogRhythmScope**  
+**Description:**  
+Scans logs and identifies rhythmic patterns, repetition clusters, and time-based anomalies.
+
+#### **README.md**
+```markdown
+# LogRhythmScope - Pattern and Burst Log Analyzer
+
+LogRhythmScope helps identify logs that repeat with rhythm — surfacing hidden bugs, spikes, or system warnings.
+
+## Features
+- Repetition timing detection  
+- Keyword clustering  
+- CLI report output  
+
+## Usage
+```bash
+git clone https://github.com/your-username/21_LogRhythmScope.git
+cd 21_LogRhythmScope
+python analyze.py
